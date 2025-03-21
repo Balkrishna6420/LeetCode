@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Balkrishna6420/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Balkrishna6420/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/Balkrishna6420/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Balkrishna6420/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Balkrishna6420/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Balkrishna6420/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
