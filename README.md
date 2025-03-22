@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Balkrishna6420/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Balkrishna6420/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Balkrishna6420/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Balkrishna6420/LeetCode/tree/master/0258-add-digits) |
 ## Simulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Balkrishna6420/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Balkrishna6420/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Balkrishna6420/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
