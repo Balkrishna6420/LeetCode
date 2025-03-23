@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Balkrishna6420/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Balkrishna6420/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Balkrishna6420/LeetCode/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Balkrishna6420/LeetCode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Balkrishna6420/LeetCode/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
