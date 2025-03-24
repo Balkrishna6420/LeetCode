@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Balkrishna6420/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Balkrishna6420/LeetCode/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/Balkrishna6420/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Balkrishna6420/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Balkrishna6420/LeetCode/tree/master/0792-binary-search) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Balkrishna6420/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
