@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Balkrishna6420/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Balkrishna6420/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Balkrishna6420/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
