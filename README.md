@@ -85,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Balkrishna6420/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Balkrishna6420/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Balkrishna6420/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
