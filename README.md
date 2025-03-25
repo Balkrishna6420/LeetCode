@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Balkrishna6420/LeetCode/tree/master/0258-add-digits) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Balkrishna6420/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
 | ------- |
@@ -96,8 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Balkrishna6420/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0344-reverse-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Balkrishna6420/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Balkrishna6420/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
