@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Balkrishna6420/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Balkrishna6420/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Balkrishna6420/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Balkrishna6420/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Balkrishna6420/LeetCode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Balkrishna6420/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Balkrishna6420/LeetCode/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Balkrishna6420/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Balkrishna6420/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Balkrishna6420/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Balkrishna6420/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Balkrishna6420/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Balkrishna6420/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Balkrishna6420/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
