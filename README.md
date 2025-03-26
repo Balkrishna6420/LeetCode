@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Balkrishna6420/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Balkrishna6420/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Balkrishna6420/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Balkrishna6420/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Balkrishna6420/LeetCode/tree/master/0724-find-pivot-index) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Balkrishna6420/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Balkrishna6420/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Balkrishna6420/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -129,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Balkrishna6420/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Balkrishna6420/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Balkrishna6420/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
