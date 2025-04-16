@@ -151,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Balkrishna6420/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Balkrishna6420/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Balkrishna6420/LeetCode/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Balkrishna6420/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
