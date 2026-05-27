@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Balkrishna6420/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Balkrishna6420/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Balkrishna6420/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Balkrishna6420/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Balkrishna6420/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Balkrishna6420/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Memoization
 |  |
 | ------- |
