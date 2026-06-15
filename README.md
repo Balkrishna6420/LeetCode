@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Balkrishna6420/LeetCode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Balkrishna6420/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Balkrishna6420/LeetCode/tree/master/0792-binary-search) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Balkrishna6420/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Balkrishna6420/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1388-pizza-with-3n-slices](https://github.com/Balkrishna6420/LeetCode/tree/master/1388-pizza-with-3n-slices) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Balkrishna6420/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Balkrishna6420/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Balkrishna6420/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1388-pizza-with-3n-slices](https://github.com/Balkrishna6420/LeetCode/tree/master/1388-pizza-with-3n-slices) |
