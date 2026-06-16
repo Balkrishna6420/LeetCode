@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Balkrishna6420/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Balkrishna6420/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Balkrishna6420/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Balkrishna6420/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/Balkrishna6420/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Balkrishna6420/LeetCode/tree/master/1402-reducing-dishes) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Balkrishna6420/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Balkrishna6420/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Balkrishna6420/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Balkrishna6420/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/Balkrishna6420/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Balkrishna6420/LeetCode/tree/master/1402-reducing-dishes) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Balkrishna6420/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Balkrishna6420/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Balkrishna6420/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Balkrishna6420/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Balkrishna6420/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Balkrishna6420/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Balkrishna6420/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Tree
 |  |
 | ------- |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Balkrishna6420/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1388-pizza-with-3n-slices](https://github.com/Balkrishna6420/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Balkrishna6420/LeetCode/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/Balkrishna6420/LeetCode/tree/master/1824-minimum-sideway-jumps) |
