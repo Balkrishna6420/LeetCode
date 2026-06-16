@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Balkrishna6420/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Balkrishna6420/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Balkrishna6420/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Balkrishna6420/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/Balkrishna6420/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Balkrishna6420/LeetCode/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Balkrishna6420/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Balkrishna6420/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0567-permutation-in-string) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Balkrishna6420/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Balkrishna6420/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Balkrishna6420/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Balkrishna6420/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/Balkrishna6420/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Balkrishna6420/LeetCode/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Balkrishna6420/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
