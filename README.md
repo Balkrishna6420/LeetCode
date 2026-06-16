@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Balkrishna6420/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Balkrishna6420/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Balkrishna6420/LeetCode/tree/master/0258-add-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Balkrishna6420/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Balkrishna6420/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Balkrishna6420/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1388-pizza-with-3n-slices](https://github.com/Balkrishna6420/LeetCode/tree/master/1388-pizza-with-3n-slices) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
