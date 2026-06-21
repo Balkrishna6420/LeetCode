@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Balkrishna6420/LeetCode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Balkrishna6420/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Balkrishna6420/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Balkrishna6420/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/Balkrishna6420/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Balkrishna6420/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0344-reverse-string) |
