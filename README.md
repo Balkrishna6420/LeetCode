@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Balkrishna6420/LeetCode/tree/master/1013-fibonacci-number) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Balkrishna6420/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Balkrishna6420/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1143-longest-common-subsequence](https://github.com/Balkrishna6420/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Balkrishna6420/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/Balkrishna6420/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Balkrishna6420/LeetCode/tree/master/1402-reducing-dishes) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Balkrishna6420/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Balkrishna6420/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Balkrishna6420/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Balkrishna6420/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
