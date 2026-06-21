@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Balkrishna6420/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Balkrishna6420/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Balkrishna6420/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/Balkrishna6420/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Balkrishna6420/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Balkrishna6420/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Balkrishna6420/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Balkrishna6420/LeetCode/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/Balkrishna6420/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Balkrishna6420/LeetCode/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Balkrishna6420/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Balkrishna6420/LeetCode/tree/master/1143-longest-common-subsequence) |
